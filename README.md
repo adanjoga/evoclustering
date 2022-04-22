@@ -33,4 +33,4 @@ A repository of traditional and evolutionary clustering algorithms with `CODE`.
 
 ## Datasets and data generators for clustering
 1. HAWKS: Evolving challenging benchmark sets for cluster analysis (2021) | [REF](https://ieeexplore.ieee.org/abstract/document/9657070) | [Python code](https://github.com/sea-shunned/hawks) |
-2. JCG: Julia Hand's cluster generators (2019) | [REF](https://personalpages.manchester.ac.uk/staff/Julia.Handl/generators.html) | [C++ code](https://personalpages.manchester.ac.uk/staff/Julia.Handl/generators.html) |
+2. JCG: Julia Handl's cluster generators (2019) | [REF](https://personalpages.manchester.ac.uk/staff/Julia.Handl/generators.html) | [C++ code](https://personalpages.manchester.ac.uk/staff/Julia.Handl/generators.html) |

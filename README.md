@@ -7,7 +7,8 @@ A repository of traditional and evolutionary clustering algorithms with `CODE`.
 ## Traditional clustering algorithm
 1. BLOCK-DBSCAN: Fast clustering for large scale data (2021) | [REF](https://doi.org/10.1016/j.patcog.2020.107624) | [C++ code](https://github.com/XFastDataLab/BLOCK-DBSCAN) |
 2. CDP: Clustering by fast search and find of density peaks (2014)| [REF](https://www.science.org/doi/10.1126/science.1242072) | [Matlab code](https://people.sissa.it/~laio/Research/Res_clustering.php) |
-3. See the available Clustering Software packages where several traditional clustering algorithms are implemented!
+3. CDC: Clustering by measuring local direction centrality for data with heterogeneous density and weak connectivity (2022)| [REF](https://www.nature.com/articles/s41467-022-33136-9) | [R and Matlab code](https://github.com/ZPGuiGroupWhu/ClusteringDirectionCentrality) |
+4. See the available Clustering Software packages where several traditional clustering algorithms are implemented!
 
 
 ## Single-objective algorithms

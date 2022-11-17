@@ -22,6 +22,8 @@ A repository of traditional and evolutionary clustering algorithms with `CODE`.
 
 1. MOCK: An evolutionary approach to multiobjective clustering (2007) | [REF](https://ieeexplore.ieee.org/document/4079614) | [C++ code](https://personalpages.manchester.ac.uk/staff/Julia.Handl/mock.html) |
 2. Delta-MOCK. An improved and more scalable evolutionary approach to multiobjective clustering (2018) | [REF](https://doi.org/10.1109/TEVC.2017.2726341) | [C++ code](https://github.com/garzafabre/Delta-MOCK) |
+3. MVMC. An evolutionary many-objective approach to multiview clustering using feature and relational data (2021) | [REF](https://doi.org/10.1016/j.asoc.2021.107425) | [Matlab code](https://github.com/adanjoga/mvmc) |
+3. DeltaMV. Evolutionary multi-objective clustering over multiple conflicting data views (2022) | [REF](https://doi.org/10.1109/TEVC.2022.3220187) | [C++ code](https://github.com/garzafabre/DeltaMV) |
 
 
 ## Clustering software packages
